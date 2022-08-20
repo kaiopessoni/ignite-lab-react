@@ -62,7 +62,7 @@ export function Subscribe(): JSX.Element {
           </form>
         </div>
       </div>
-      <img src="/src/assets/code-mockup.png" alt="bg" className="mt-10" />
+      <img src="/assets/code-mockup.png" alt="bg" className="mt-10" />
     </div>
   )
 }
